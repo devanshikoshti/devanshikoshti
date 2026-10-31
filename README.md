@@ -22,6 +22,6 @@ Hi, I'm Devanshi Koshti 👋<br><br>BCA student at St. Xavier's College, Ahmedab
 ![](https://github-contributor-stats.vercel.app/api?username=devanshikoshti&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=devanshikoshti&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=devanshikoshti&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
