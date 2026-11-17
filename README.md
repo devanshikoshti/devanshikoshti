@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Devanshi Koshti 👋<br><br>BCA student at St. Xavier's College, Ahmedabad, focused on Java backend development. I like building clean, working systems and understanding how things work behind the scenes.<br><br>🛠️ What I work with<br>Languages: Java, SQL, PHP<br>Backend: Spring Boot, Hibernate, Spring Data JPA, REST APIs, JWT authentication<br>Database: MySQL<br>Tools: Git, GitHub, Maven<br>Frontend basics: HTML, CSS<br><br>Currently looking for internships in Java backend development.*
+Hi, I'm Devanshi Koshti 👋<br><br>BCA student at St. Xavier's College, Ahmedabad, focused on Java backend development. I like building clean, working systems and understanding how things work behind the scenes.<br><br>🛠️ What I work with<br>Languages: Java, SQL, PHP<br>Backend: Spring Boot, Hibernate, Spring Data JPA, REST APIs, JWT authentication<br>Database: MySQL<br>Tools: Git, GitHub, Maven<br>Frontend basics: HTML, CSS, JavaScript, React JS<br><br>Currently looking for internships in Java backend development.
 
 
 ## 🌐 Socials:
